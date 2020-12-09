@@ -90,7 +90,7 @@ $ hab pkg install core/rust --binlink
 ★ Binlinked rust-gdb from core/rust/1.43.1/20200612152403 to /bin/rust-gdb
 ```
 
-#### Using an example binary
+#### Using an example binary 
 
 You can now use the binary as normal.  For example:
 
